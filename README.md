@@ -1,10 +1,3 @@
-# BitRat cracked by iDecompile
-
-## FUD (Fully Undetected)
-
-## Password to extract files: sp3dy
-
-## How to use? 
 
 1. Download this repository by clicking on CODE > DOWNLOAD ZIP
 
@@ -124,12 +117,3 @@
 
 - Etc many more
 
-
-## DISCLAIMER: 
-
-### I am NOT responsible for any demages caused by this software to anyone. I do NOT support any malicious use of this software. This is for educational purposes only.
-
-
-## Preview:
-
-![xcsd](https://user-images.githubusercontent.com/113134426/189212093-9a3b91f3-e315-441c-b888-4a17c14dbbaa.png)
